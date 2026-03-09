@@ -286,3 +286,43 @@ Roderick Austin
 
 R\&J Digital Media LLC
 
+## Future Direction: Energy-Aware GPU Optimization
+
+While the current NeuroCosmos prototype focuses on telemetry visualization
+and optimization impact modeling, the broader vision connects to the
+NeuroPulse optimization engine.
+
+The long-term goal is to explore how AI-driven optimization could improve
+GPU efficiency not only at the device level but also across larger GPU
+clusters and data center environments.
+
+Potential research directions include:
+
+- GPU cluster workload balancing
+- energy-aware scheduling of compute workloads
+- predictive thermal optimization
+- fleet-level GPU efficiency modeling
+- large-scale AI infrastructure optimization
+
+Even small efficiency improvements at the GPU level could potentially
+scale across thousands or millions of GPUs in large AI compute environments.
+
+
+
+## Architecture Vision
+
+NeuroPulse / NeuroCosmos research direction
+
+Layer 1
+GPU Telemetry & Optimization  
+(current prototype)
+
+Layer 2
+Cluster-Level Workload Optimization  
+(future exploration)
+
+Layer 3
+Data Center Energy Efficiency  
+(long-term research direction)
+
+
